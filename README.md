@@ -1,5 +1,6 @@
 This repository is for article:
 X. Hua, L. Bromham, J. Stewart, C. Agly, F. Meakins. 2025. Sali-CAT: A new method for ranking social salience for multiple variables. 
+
 Please find the csv files in the appendices of the article in folder /Appendices/. 
 
 To replicate the results reported in the article:
